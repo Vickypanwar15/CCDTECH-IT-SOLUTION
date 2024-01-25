@@ -1,1 +1,2 @@
-# CCDTECH-IT-SOLUTION
+# CodTech IT Solution Java Internship
+Tic-Tac-Toe Game
