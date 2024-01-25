@@ -1,6 +1,8 @@
 # CodTech IT Solution Java Internship
-Tic-Tac-Toe Game (Task-1)
-This is a text-based implementation of the classic Tic Tac Toe game developed in Java. The game supports both human vs. human and human vs. computer gameplay.
+<h1>Tic-Tac-Toe Game (Task-1)</h1>
+<br>
+<p>This is a text-based implementation of the classic Tic Tac Toe game developed in Java. The game supports both human vs. human and human vs. computer gameplay.
+</p>
 ## Features
 
 - Interactive gameplay where players take turns marking the board.
